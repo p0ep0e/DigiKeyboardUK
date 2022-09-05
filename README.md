@@ -10,3 +10,7 @@ For most users, this ISN'T in the software installation folder but rather a fold
 C:\Users\YOURUSERNAME\AppData\Local\Arduino15\packages\digistump\hardware\avr\1.6.7\libraries\DigisparkKeyboardUK
 
 Include the library in your project using #include "DigiKeyboardUK.h" and then follow any of the tutorials for the standard DigiSpark.h library.
+
+## TODO
+Have the library added to the online respositories so it can be installed via the GUI in the ARDUINO IDE.
+Make some pretty pictures showing the key differences. :-)
