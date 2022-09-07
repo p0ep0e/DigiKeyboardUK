@@ -11,6 +11,8 @@ C:\Users\YOURUSERNAME\AppData\Local\Arduino15\packages\digistump\hardware\avr\1.
 
 Include the library in your project using #include "DigiKeyboardUK.h" and then follow any of the tutorials for the standard DigiSpark.h library.
 
+An other option for those ONLY compiling for UK keyboards is just to overwrite the scancode-ascii-table.h file in their existing package (though obviously if an update is pushed out for the library it could well get overwritten.
+
 ## TODO
 Have the library added to the online respositories so it can be installed via the GUI in the ARDUINO IDE.
 Make some pretty pictures showing the key differences. :-)
